@@ -1,0 +1,12 @@
+/Users/oscargiovannihenriquez/Desktop/Actividad3EstructurasdeControl-master/ActividadEstructurasdeControl/bin/Debug/netcoreapp3.1/Estructuras-de-Control.deps.json
+/Users/oscargiovannihenriquez/Desktop/Actividad3EstructurasdeControl-master/ActividadEstructurasdeControl/bin/Debug/netcoreapp3.1/Estructuras-de-Control.runtimeconfig.json
+/Users/oscargiovannihenriquez/Desktop/Actividad3EstructurasdeControl-master/ActividadEstructurasdeControl/bin/Debug/netcoreapp3.1/Estructuras-de-Control.runtimeconfig.dev.json
+/Users/oscargiovannihenriquez/Desktop/Actividad3EstructurasdeControl-master/ActividadEstructurasdeControl/bin/Debug/netcoreapp3.1/Estructuras-de-Control.dll
+/Users/oscargiovannihenriquez/Desktop/Actividad3EstructurasdeControl-master/ActividadEstructurasdeControl/bin/Debug/netcoreapp3.1/Estructuras-de-Control.pdb
+/Users/oscargiovannihenriquez/Desktop/Actividad3EstructurasdeControl-master/ActividadEstructurasdeControl/obj/Debug/netcoreapp3.1/Estructuras-de-Control.csprojAssemblyReference.cache
+/Users/oscargiovannihenriquez/Desktop/Actividad3EstructurasdeControl-master/ActividadEstructurasdeControl/obj/Debug/netcoreapp3.1/Estructuras-de-Control.AssemblyInfoInputs.cache
+/Users/oscargiovannihenriquez/Desktop/Actividad3EstructurasdeControl-master/ActividadEstructurasdeControl/obj/Debug/netcoreapp3.1/Estructuras-de-Control.AssemblyInfo.cs
+/Users/oscargiovannihenriquez/Desktop/Actividad3EstructurasdeControl-master/ActividadEstructurasdeControl/obj/Debug/netcoreapp3.1/Estructuras-de-Control.csproj.CoreCompileInputs.cache
+/Users/oscargiovannihenriquez/Desktop/Actividad3EstructurasdeControl-master/ActividadEstructurasdeControl/obj/Debug/netcoreapp3.1/Estructuras-de-Control.dll
+/Users/oscargiovannihenriquez/Desktop/Actividad3EstructurasdeControl-master/ActividadEstructurasdeControl/obj/Debug/netcoreapp3.1/Estructuras-de-Control.pdb
+/Users/oscargiovannihenriquez/Desktop/Actividad3EstructurasdeControl-master/ActividadEstructurasdeControl/obj/Debug/netcoreapp3.1/Estructuras-de-Control.genruntimeconfig.cache
